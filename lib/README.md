@@ -1,3 +1,0 @@
-# XEON Library
-
-XEON library...
